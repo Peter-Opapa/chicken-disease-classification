@@ -40,5 +40,5 @@ Thumbs.db
 *.log
 
 # Data files
-artifacts/
+artifacts/*
 logs/
